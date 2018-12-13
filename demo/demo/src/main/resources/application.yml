@@ -1,0 +1,6 @@
+spring:
+  activemq:
+    broker-url: tcp://172.32.66.85:61616
+
+queue:
+  boot: fila
